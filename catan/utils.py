@@ -1,3 +1,5 @@
 
 
-def
+def next_turn():
+    pass
+

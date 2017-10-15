@@ -10,5 +10,3 @@ class Player(object):
                                'wheat' : 0,
                                'brick' : 0}
 
-
-    def
